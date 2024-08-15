@@ -25,6 +25,7 @@ Full adders are fundamental components in arithmetic logic units (ALUs) and are 
 ## Schematic
 ![Full Adder Schematic](Schematics.png)
 
+Schematics from [gsnetwork](https://www.gsnetwork.com/wp-content/uploads/2023/01/full-adder-transistor-level-circuit-diagram.jpg)
 ## Simulation
 The circuit can be simulated using software tools like SPICE to verify its functionality before physical implementation.
 
